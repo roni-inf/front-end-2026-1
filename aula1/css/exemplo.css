@@ -1,0 +1,13 @@
+.texto1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 28px;
+  color: orange;
+}
+
+.texto2 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+  font-size: 48px;
+  letter-spacing: 4px;
+  word-spacing: 6px;
+  color: blue;
+}

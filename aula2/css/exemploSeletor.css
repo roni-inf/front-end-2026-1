@@ -1,0 +1,29 @@
+#titulo {
+  color: orange;
+}
+
+p.texto {
+  color: green;
+}
+
+.teste {
+  color: red;
+}
+
+.destacar,
+.missao {
+  color: brown;
+}
+
+.missao {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+}
+
+.missao strong{
+    color: blueviolet;
+}
+
+main .missao > .destacar{
+    color: chartreuse;
+}
