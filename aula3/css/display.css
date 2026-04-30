@@ -1,0 +1,32 @@
+body {
+  font-size: 32px;
+}
+
+.empresa {
+  background-color: chocolate;
+  width: 1000px;
+}
+
+.area {
+  background-color: chartreuse;
+}
+
+.celulares {
+  background-color: brown;
+}
+
+.impressoras {
+  background-color: blue;
+}
+
+.computadores {
+  background-color: blueviolet;
+  display: inline-block;
+}
+
+.roteadores {
+  background-color: burlywood;
+  display: inline-block;
+  height: 100px;
+  width: 200px;
+}
