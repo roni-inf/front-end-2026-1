@@ -8,7 +8,8 @@ const nums = [3, 5, 9, 12, 4, 10, 50];
 // console.log(soma);
 
 //const soma = nums.reduce((acumulador, num) =>  acumulador + num,0);
-console.log( nums.reduce((acumulador,num)=>acumulador+num,0)/nums.length);
+console.log( Math.round( nums.reduce((acumulador,num)=>acumulador+num,0)/nums.length));
+
 
 
 

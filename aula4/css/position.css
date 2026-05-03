@@ -1,0 +1,47 @@
+main {
+  position: relative;
+  background-color: #e5e5e5;
+  font-family: sans-serif;
+  margin: 1.5rem 1.1rem;
+  padding: 1rem 2.5rem;
+  border: 2px solid black;
+}
+p {
+  font-size: 2em;
+}
+
+div {
+  font-size: 1.75em;
+  padding: 1.1em 1.5em;
+}
+.static {
+  background-color: blue;
+}
+
+.relative {
+  position: relative;
+  background-color: red;
+  left: 100px;
+  top: -30px;
+  width: 50%;
+  margin: 0 auto;
+}
+.absolute {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: green;
+}
+
+.fixed {
+  position: fixed;
+  right: 64px;
+  bottom: 64px;
+  background-color: gray;
+}
+
+.sticky {
+  position: sticky;
+  background-color: yellow;
+  top: 64px;
+}
