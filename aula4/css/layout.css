@@ -1,0 +1,38 @@
+.layout-cabecalho {
+  height: 80px;
+  border-bottom: 1px solid #ccc;
+}
+
+.layout-cabecalho--position {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #e7e7e7;
+}
+
+.layout-planos {
+  padding: 80px 0;
+}
+
+.layout-principal {
+  padding: 80px 0;
+  background-color: green;
+}
+
+.layout-depoimento {
+  padding: 80px 0;
+  background-color: #e7e7e7;
+}
+
+.layout-rodape {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 18px;
+
+  background-color: bisque;
+  font-size: 1em;
+  text-align: center;
+}
